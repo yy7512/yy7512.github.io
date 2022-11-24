@@ -4,19 +4,13 @@
   
   
   <entry>
-    <title>new article</title>
+    <title>HTML</title>
     <link href="/2022/11/24/HtmlSynopsis/"/>
     <url>/2022/11/24/HtmlSynopsis/</url>
     
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><h3 id="超文本标记语言（英语：HyperText-Markup-Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用-HTML-来建立自己的-WEB-站点，HTML-运行在浏览器上，由浏览器来解析。"><a href="#超文本标记语言（英语：HyperText-Markup-Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用-HTML-来建立自己的-WEB-站点，HTML-运行在浏览器上，由浏览器来解析。" class="headerlink" title="超文本标记语言（英语：HyperText Markup Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用 HTML 来建立自己的 WEB 站点，HTML 运行在浏览器上，由浏览器来解析。"></a>超文本标记语言（英语：HyperText Markup Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用 HTML 来建立自己的 WEB 站点，HTML 运行在浏览器上，由浏览器来解析。</h3>]]></content>
+    <content type="html"><![CDATA[<h2 id="HTML简介"><a href="#HTML简介" class="headerlink" title="HTML简介"></a>HTML简介</h2><h3 id="HTML又称作超文本标记语言（英语：HyperText-Markup-Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用-HTML-来建立自己的-WEB-站点，HTML-运行在浏览器上，由浏览器来解析。"><a href="#HTML又称作超文本标记语言（英语：HyperText-Markup-Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用-HTML-来建立自己的-WEB-站点，HTML-运行在浏览器上，由浏览器来解析。" class="headerlink" title="HTML又称作超文本标记语言（英语：HyperText Markup Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用 HTML 来建立自己的 WEB 站点，HTML 运行在浏览器上，由浏览器来解析。"></a>HTML又称作超文本标记语言（英语：HyperText Markup Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用 HTML 来建立自己的 WEB 站点，HTML 运行在浏览器上，由浏览器来解析。</h3>]]></content>
     
     
-    
-    <tags>
-      
-      <tag>HELLO WORLD!</tag>
-      
-    </tags>
     
   </entry>
   
